@@ -1,5 +1,5 @@
 ## winpaper
-A simple and simple wallpaper switching tool
+A simple and user-friendly, open-source, ad-free and virus-free wallpaper changer that allows you to customize the wallpaper switching time and sequence.
 
 **Instructions for use**(Translated by ai)
 1. Download the compiled exe (windows) from Releases or download winpaper.py from the repository to manually compile
