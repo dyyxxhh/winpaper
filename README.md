@@ -3,6 +3,8 @@
 
 **使用说明**
 
+If you want to read in English,please read README_en.md
+
 1.从Releases下载编译好的exe（windows）或从仓库下载winpaper.py手动编译
 
 2.在同目录下创建cofig.txt  (编码为utf-8) 格式为 ：
